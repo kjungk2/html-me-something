@@ -1,0 +1,25 @@
+h1, h3, p {
+    font-family: arial;
+}
+
+#entry_title {
+    font-size: 40px;
+}
+
+p.description {
+    margin-left: 25px;
+}
+
+body {
+    max-width: 600px;
+    margin-left: 50px;
+    background-color: #D3D3D3;
+}
+
+article > img {
+    margin-left: 25px;
+}
+
+article {
+    padding: 30px 0px 0px;
+}
